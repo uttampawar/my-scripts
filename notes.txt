@@ -1,6 +1,13 @@
 Contribution to Node.js core
 http://nodetodo.org
 
-Nodejsbenchmarking
+Frequently used git commands,
+$ git add .
+$ git commit --amend
+$ git push -u origin <branch name>
+$ git reset --hard <HEAD | commit id> 
+$ git stash save "some description"
+
+
 
 
